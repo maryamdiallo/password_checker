@@ -1,6 +1,6 @@
 ## Password Strength Checker
 
-A simple yet robust password checker written in Python that verifies if a password meets **modern cybersecurity standards**. Designed to reflect real-world industry expectations, this script evaluates passwords for length, complexity, and composition — aligning with NIST and enterprise best practices.
+A simple password checker written in Python that verifies if a password meets **modern cybersecurity standards**. Designed to reflect real-world industry expectations, this script evaluates passwords for length, complexity, and composition — aligning with NIST and enterprise best practices.
 
 ---
 
